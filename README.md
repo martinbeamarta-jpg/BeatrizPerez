@@ -3,7 +3,7 @@
 > **2nd year Web Application Development (DAW) student** 🚀  
 > Combining the discipline of the fitness industry with a passion for creative coding.
 
-### 📚 About Me
+### ☞ About Me
 - ❀ Currently finishing my studies in **Web Application Development**.
 - ❀ Balancing professional growth at a gymnasium with my career in tech.
 - ❀ I love creating functional things and solving complex problems through code.
@@ -11,7 +11,7 @@
 
 ---
 
-### 🛠 Tools & Tech Stack
+### ☞ Tools & Tech Stack
 
 **Backend & Databases**
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
