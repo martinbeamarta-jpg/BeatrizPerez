@@ -1,4 +1,4 @@
-Hey! I'm 𝓑𝓔𝓐𝓣𝓡𝓘𝓩 👩‍💻
+Hey! I'm Beatriz 👩‍💻
 
 ☺ Currently studying 2º DAW (Web Application Development).
 
