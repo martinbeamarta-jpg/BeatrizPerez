@@ -1,1 +1,10 @@
-# beatriz-beatriz
+Hey! I'm 𝓑𝓔𝓐𝓣𝓡𝓘𝓩 👩‍💻
+☺ Currently studying 2º DAW (Web Application Development).
+
+⌨︎ Balancing my professional growth while working in the fitness industry.
+
+❀ Passionate about Creative Coding.
+
+✎ I’m currently learning: [Aquí puedes añadir tecnologías específicas, ej: React, Node, SQL]
+
+☞ How to reach me: [martinbeamarta@gamil.com]
